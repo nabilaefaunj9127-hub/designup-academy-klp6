@@ -3,7 +3,7 @@
 **Kelas:** WebDev B  
 **Kelompok:** 6
 
-**Tema:** Akademi Kursus Daring Desain Antarmuka dan Pengalaman Pengguna (UI/UX).
+**Tema:** Akademi Kursus Daring Desain Antarmuka dan Pengalaman Pengguna.
 
 **Website GitHub Pages:** Belum tersedia
 
